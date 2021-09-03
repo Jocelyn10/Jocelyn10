@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://jocelynnsa.netlify.app/about](https://jocelynnsa.netlify.app/about)
 
-- ⚡ Fun fact **I am passionate about the computer world. Especially the network and programming, I love to code to relax. Coding for life ... :)**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
