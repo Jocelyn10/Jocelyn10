@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jocelyn10" alt="jocelyn10" /></a> </p>
 
-- 🔭 I’m currently working on **OPH Larochelle**
+- 🔭 I’m currently working on **Feelin**
 
 - 👨‍💻 All of my projects are available at [https://jocelynnsa.netlify.app/work](https://jocelynnsa.netlify.app/work)
 
