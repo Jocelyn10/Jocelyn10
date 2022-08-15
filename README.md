@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jocelyn10" alt="jocelyn10" /></a> </p>
 
-- 🔭 I’m currently working on **Feelin**
+- 🔭 I’m currently working at **Axialys** (https://www.axialys.com/)
 
-- 👨‍💻 All of my projects are available at [https://jocelynnsa.netlify.app/work](https://jocelynnsa.netlify.app/work)
+- 📝 I regularly write articles on [frendlyblog.com](https://nsa-blog.vercel.app/)
 
-- 📝 I regularly write articles on [frendlyblog.com](frendlyblog.com)
-
-- 💬 Ask me about **react, react native, vue, nuxt, wordpress, squarespace, java, c#, mysql and mongo db**
+- 💬 Ask me about **next, react, react native, vue, nuxt, wordpress, squarespace, java, c#, mysql and mongo db**
 
 - 📫 How to reach me **jocelynnsa@gmail.com**
 
-- 📄 Know about my experiences [https://jocelynnsa.netlify.app/about](https://jocelynnsa.netlify.app/about)
+- 📄 Know about me [https://jocelynnsa.netlify.app/](https://jocelynnsa.netlify.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
